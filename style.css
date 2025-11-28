@@ -1,0 +1,43 @@
+/*This site is coded by Abhinav
+This is portfolio site css*/
+body
+{
+    background-image: url(beautiful-domestic-cat-laying-fence.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+h1
+{
+    color: rgb(0, 0, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 3em;
+}
+
+#homepara1
+{
+    font-family: sans-serif;
+    text-align: start;
+    box-shadow: 5px;
+    text-shadow: 0.5px;
+    color: rgb(0, 0, 0);
+}
+
+#homepara2
+{
+    font-family: sans-serif;
+    text-align: start;
+    box-shadow: 5px;
+    text-shadow: 0.5px;
+    color: rgb(0, 0, 0);
+}
+
+#homepara3
+{
+    font-family: sans-serif;
+    text-align: start;
+    box-shadow: 5px;
+    text-shadow: 0.5px;
+    color: rgb(0, 0, 0);
+}
